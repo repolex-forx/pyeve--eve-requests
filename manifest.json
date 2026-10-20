@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "pyeve",
+  "repo": "eve-requests",
+  "versions": [
+    {
+      "commit": "f04c8aa62c7f50cdde9da6ae26eeb5bae360cb3f",
+      "parsed_at": "2026-10-20T19:39:49.634005+00:00",
+      "filetree": "filetree/f04c8aa62c7f50cdde9da6ae26eeb5bae360cb3f.nq.gz",
+      "blobs": [
+        "blob/77b0273f097256156b87fd9063f598bf721e3941.nq.gz",
+        "blob/a73d98f8d1c74d32c8b116af48cb69d26480237c.nq.gz",
+        "blob/a76592b866377fa098047ab121af9aa521a59d7d.nq.gz",
+        "blob/d777389042d8cc089147e636a117a27f08a9fa55.nq.gz",
+        "blob/1e6fd5aa3d20722d2a76578c3f54b6c8ce330209.nq.gz",
+        "blob/918deba65f803a5743ffa6a2daa016d55c6123f6.nq.gz",
+        "blob/2c2496473397a81c02fd8bfecfad7a859b8b5aa0.nq.gz",
+        "blob/cb814431ce1d048f729ce7fe8d9d1b8afa793cc0.nq.gz",
+        "blob/dffdd5d99fe681fafe8bed95b57204d346cdadbf.nq.gz",
+        "blob/f4a551ec5ef464684dea2094b8c7e82d90ae6092.nq.gz",
+        "blob/42ec41857be8e4ad7f57e49c2ff7acb553d3f972.nq.gz",
+        "blob/e72f8a32afd8d278f9ee1c12813e3ee658697d03.nq.gz",
+        "blob/bb76b293ce11bf147ac3d20f6279d4e92410efca.nq.gz",
+        "blob/2960128a723cc16f8d2c253d8a9707fb3423bcd8.nq.gz",
+        "blob/33a2a9850711c1fd379ed19c78150309ba507a02.nq.gz",
+        "blob/f2293605cf1b01dca72aad0a15c45b72ed5429a2.nq.gz",
+        "blob/4ee8f58f259b9efa166d689b96e1f209c7f81b37.nq.gz",
+        "blob/6be2ecb56fed0b7c78f34bc2d14d469514330049.nq.gz",
+        "blob/8a4b4e17b4d43caecce76f49c24aa0e4db1ab59a.nq.gz",
+        "blob/b3a3ac866153bad2936f10581385b4bb0294937d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
