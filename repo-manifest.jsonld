@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pyeve/eve-requests/commit/f04c8aa62c7f50cdde9da6ae26eeb5bae360cb3f",
       "git:hexsha": "f04c8aa62c7f50cdde9da6ae26eeb5bae360cb3f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
